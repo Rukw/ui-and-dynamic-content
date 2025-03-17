@@ -11,7 +11,7 @@
     display: flex;
     justify-content: center;
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(/imgs/wood-2045380_1920.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), URL(./imgs/wood-2045380_1920.jpg);
   }
 
   
@@ -19,7 +19,7 @@
   .todo-widget {
     max-width: 45rem;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(/imgs/wood-2045380_1920.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), URL(./imgs/wood-2045380_1920.jpg);
     background-size: cover;
     background-position: center;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
