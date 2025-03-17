@@ -40,9 +40,11 @@
   .todo-masthead i {
     margin-bottom: 0.5rem;
     font-size: 13rem;
+    color: #cdedff;
   }
   
   .title {
+    color: #99d9fb;
     max-width: 90%;
     font-size: 4.5rem;
     font-weight: 900;
@@ -82,7 +84,7 @@
   }
   
   button {
-    background-color: #3a5a78;
+    background-color: #387393;
     color: white;
     border: none;
     padding: 1.5rem;
@@ -130,6 +132,7 @@
     display: flex;
     justify-content: center;
     gap: 1.5rem;
+    text-decoration: none;
   }
   
   .social-icon {
@@ -148,15 +151,21 @@
   }
   
   .facebook {
-    background-color: #3b5998;
+    background-color: #99d9fb;
+    color: #20345f;
+    text-decoration: none;
   }
   
   .linkedin {
-    background-color: #0077b5;
+    background-color: #99d9fb;
+    color: #004a72;
+    text-decoration: none;
   }
   
   .google-plus {
-    background-color: #dd4b39;
+    background-color: #99d9fb;
+    color:  #7d1b0e;
+    text-decoration: none;
   }
   
   /* Responsive adjustments */
